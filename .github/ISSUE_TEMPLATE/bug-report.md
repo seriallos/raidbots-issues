@@ -20,6 +20,10 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
+**Link a sim with the problem (if available)**
+
+If you have a sim report that shows the problem, please provide the URL here
+
 **Character or /simc input**
 
 For "Load from Armory":
