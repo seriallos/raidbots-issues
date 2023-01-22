@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+# If your bug is related to an incorrect tooltip, check the Full HTML Results before reporting! https://github.com/seriallos/raidbots-issues/issues/288
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
